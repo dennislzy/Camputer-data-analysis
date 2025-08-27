@@ -1,0 +1,470 @@
+{
+    "生態": {
+        "category": "生態",
+        "count": 3,
+        "avgPrice": 6066.67,
+        "avgPricePerDay": 1163.33,
+        "avgEarlyDiscountPct": 7.56,
+        "avgGroupDiscountPct": 3.78,
+        "avgFillRate": 5.333333333333333
+    },
+    "財務金融": {
+        "category": "財務金融",
+        "count": 2,
+        "avgPrice": 6650.0,
+        "avgPricePerDay": 1205.0,
+        "avgEarlyDiscountPct": 8.12,
+        "avgGroupDiscountPct": 4.06,
+        "avgFillRate": 0.625
+    },
+    "生物科技": {
+        "category": "生物科技",
+        "count": 2,
+        "avgPrice": 7250.0,
+        "avgPricePerDay": 1350.0,
+        "avgEarlyDiscountPct": 9.17,
+        "avgGroupDiscountPct": 4.59,
+        "avgFillRate": 1.53845
+    },
+    "食品營養": {
+        "category": "食品營養",
+        "count": 3,
+        "avgPrice": 5633.33,
+        "avgPricePerDay": 1057.78,
+        "avgEarlyDiscountPct": 7.67,
+        "avgGroupDiscountPct": 3.84,
+        "avgFillRate": 9.333333333333334
+    },
+    "美術": {
+        "category": "美術",
+        "count": 1,
+        "avgPrice": 5000.0,
+        "avgPricePerDay": 833.33,
+        "avgEarlyDiscountPct": 8.0,
+        "avgGroupDiscountPct": 4.0,
+        "avgFillRate": 4.0
+    },
+    "工程科學": {
+        "category": "工程科學",
+        "count": 2,
+        "avgPrice": 7100.0,
+        "avgPricePerDay": 1183.34,
+        "avgEarlyDiscountPct": 9.05,
+        "avgGroupDiscountPct": 4.53,
+        "avgFillRate": 4.7619
+    },
+    "生命科學": {
+        "category": "生命科學",
+        "count": 2,
+        "avgPrice": 7250.0,
+        "avgPricePerDay": 1350.0,
+        "avgEarlyDiscountPct": 9.17,
+        "avgGroupDiscountPct": 4.59,
+        "avgFillRate": 1.53845
+    },
+    "都市計畫": {
+        "category": "都市計畫",
+        "count": 2,
+        "avgPrice": 6850.0,
+        "avgPricePerDay": 1141.67,
+        "avgEarlyDiscountPct": 8.01,
+        "avgGroupDiscountPct": 4.01,
+        "avgFillRate": 7.14285
+    },
+    "工藝": {
+        "category": "工藝",
+        "count": 7,
+        "avgPrice": 5042.86,
+        "avgPricePerDay": 895.71,
+        "avgEarlyDiscountPct": 6.43,
+        "avgGroupDiscountPct": 3.22,
+        "avgFillRate": 8.142857142857142
+    },
+    "企業管理": {
+        "category": "企業管理",
+        "count": 6,
+        "avgPrice": 6083.33,
+        "avgPricePerDay": 1103.89,
+        "avgEarlyDiscountPct": 8.42,
+        "avgGroupDiscountPct": 4.08,
+        "avgFillRate": 7.44445
+    },
+    "英語教育": {
+        "category": "英語教育",
+        "count": 1,
+        "avgPrice": 5200.0,
+        "avgPricePerDay": 866.67,
+        "avgEarlyDiscountPct": 7.69,
+        "avgGroupDiscountPct": 3.85,
+        "avgFillRate": 5.7143
+    },
+    "廣告公關": {
+        "category": "廣告公關",
+        "count": 1,
+        "avgPrice": 5800.0,
+        "avgPricePerDay": 1160.0,
+        "avgEarlyDiscountPct": 8.62,
+        "avgGroupDiscountPct": 3.45,
+        "avgFillRate": 2.0
+    },
+    "廣電電影": {
+        "category": "廣電電影",
+        "count": 5,
+        "avgPrice": 6700.0,
+        "avgPricePerDay": 1204.67,
+        "avgEarlyDiscountPct": 8.32,
+        "avgGroupDiscountPct": 4.17,
+        "avgFillRate": 5.566660000000001
+    },
+    "英語文": {
+        "category": "英語文",
+        "count": 5,
+        "avgPrice": 5540.0,
+        "avgPricePerDay": 923.33,
+        "avgEarlyDiscountPct": 7.41,
+        "avgGroupDiscountPct": 3.71,
+        "avgFillRate": 5.72382
+    },
+    "財金統計": {
+        "category": "財金統計",
+        "count": 1,
+        "avgPrice": 5800.0,
+        "avgPricePerDay": 1160.0,
+        "avgEarlyDiscountPct": 6.9,
+        "avgGroupDiscountPct": 3.45,
+        "avgFillRate": 1.25
+    },
+    "化學": {
+        "category": "化學",
+        "count": 1,
+        "avgPrice": 5500.0,
+        "avgPricePerDay": 916.67,
+        "avgEarlyDiscountPct": 8.18,
+        "avgGroupDiscountPct": 4.09,
+        "avgFillRate": 5.7143
+    },
+    "光電工程": {
+        "category": "光電工程",
+        "count": 2,
+        "avgPrice": 8600.0,
+        "avgPricePerDay": 1491.43,
+        "avgEarlyDiscountPct": 9.89,
+        "avgGroupDiscountPct": 4.95,
+        "avgFillRate": 4.0
+    },
+    "心理": {
+        "category": "心理",
+        "count": 2,
+        "avgPrice": 5600.0,
+        "avgPricePerDay": 933.34,
+        "avgEarlyDiscountPct": 7.05,
+        "avgGroupDiscountPct": 3.53,
+        "avgFillRate": 5.5
+    },
+    "運動管理": {
+        "category": "運動管理",
+        "count": 2,
+        "avgPrice": 6100.0,
+        "avgPricePerDay": 1136.67,
+        "avgEarlyDiscountPct": 8.86,
+        "avgGroupDiscountPct": 4.43,
+        "avgFillRate": 3.5
+    },
+    "物理": {
+        "category": "物理",
+        "count": 6,
+        "avgPrice": 7183.33,
+        "avgPricePerDay": 1235.0,
+        "avgEarlyDiscountPct": 7.64,
+        "avgGroupDiscountPct": 3.82,
+        "avgFillRate": 3.4523833333333336
+    },
+    "數據統計": {
+        "category": "數據統計",
+        "count": 1,
+        "avgPrice": 6000.0,
+        "avgPricePerDay": 1000.0,
+        "avgEarlyDiscountPct": 10.0,
+        "avgGroupDiscountPct": 5.0,
+        "avgFillRate": 15.0
+    },
+    "電機工程": {
+        "category": "電機工程",
+        "count": 2,
+        "avgPrice": 8600.0,
+        "avgPricePerDay": 1491.43,
+        "avgEarlyDiscountPct": 9.89,
+        "avgGroupDiscountPct": 4.95,
+        "avgFillRate": 4.0
+    },
+    "行政管理": {
+        "category": "行政管理",
+        "count": 4,
+        "avgPrice": 6575.0,
+        "avgPricePerDay": 1150.0,
+        "avgEarlyDiscountPct": 8.35,
+        "avgGroupDiscountPct": 4.18,
+        "avgFillRate": 4.916675
+    },
+    "資訊工程": {
+        "category": "資訊工程",
+        "count": 22,
+        "avgPrice": 6954.55,
+        "avgPricePerDay": 1278.9,
+        "avgEarlyDiscountPct": 8.48,
+        "avgGroupDiscountPct": 4.37,
+        "avgFillRate": 5.348563636363636
+    },
+    "環境工程": {
+        "category": "環境工程",
+        "count": 5,
+        "avgPrice": 6200.0,
+        "avgPricePerDay": 1073.33,
+        "avgEarlyDiscountPct": 7.94,
+        "avgGroupDiscountPct": 3.97,
+        "avgFillRate": 4.4762
+    },
+    "運輸物流": {
+        "category": "運輸物流",
+        "count": 1,
+        "avgPrice": 8000.0,
+        "avgPricePerDay": 1333.33,
+        "avgEarlyDiscountPct": 10.0,
+        "avgGroupDiscountPct": 5.0,
+        "avgFillRate": 0.0
+    },
+    "醫學": {
+        "category": "醫學",
+        "count": 1,
+        "avgPrice": 9500.0,
+        "avgPricePerDay": 1583.33,
+        "avgEarlyDiscountPct": 10.0,
+        "avgGroupDiscountPct": 5.0,
+        "avgFillRate": 0.0
+    },
+    "地球科學": {
+        "category": "地球科學",
+        "count": 1,
+        "avgPrice": 6800.0,
+        "avgPricePerDay": 1133.33,
+        "avgEarlyDiscountPct": 8.82,
+        "avgGroupDiscountPct": 4.41,
+        "avgFillRate": 10.0
+    },
+    "電子工程": {
+        "category": "電子工程",
+        "count": 2,
+        "avgPrice": 6300.0,
+        "avgPricePerDay": 1050.0,
+        "avgEarlyDiscountPct": 8.65,
+        "avgGroupDiscountPct": 4.33,
+        "avgFillRate": 4.333349999999999
+    },
+    "化學工程": {
+        "category": "化學工程",
+        "count": 1,
+        "avgPrice": 7800.0,
+        "avgPricePerDay": 1300.0,
+        "avgEarlyDiscountPct": 8.97,
+        "avgGroupDiscountPct": 4.49,
+        "avgFillRate": 6.6667
+    },
+    "社會學": {
+        "category": "社會學",
+        "count": 1,
+        "avgPrice": 5000.0,
+        "avgPricePerDay": 1000.0,
+        "avgEarlyDiscountPct": 8.0,
+        "avgGroupDiscountPct": 4.0,
+        "avgFillRate": 8.0
+    },
+    "大眾傳播": {
+        "category": "大眾傳播",
+        "count": 10,
+        "avgPrice": 6270.0,
+        "avgPricePerDay": 1133.33,
+        "avgEarlyDiscountPct": 8.09,
+        "avgGroupDiscountPct": 4.05,
+        "avgFillRate": 6.540470000000001
+    },
+    "商業設計": {
+        "category": "商業設計",
+        "count": 3,
+        "avgPrice": 5933.33,
+        "avgPricePerDay": 988.89,
+        "avgEarlyDiscountPct": 7.86,
+        "avgGroupDiscountPct": 3.93,
+        "avgFillRate": 4.0684
+    },
+    "中國語文": {
+        "category": "中國語文",
+        "count": 2,
+        "avgPrice": 4150.0,
+        "avgPricePerDay": 691.67,
+        "avgEarlyDiscountPct": 5.98,
+        "avgGroupDiscountPct": 3.0,
+        "avgFillRate": 5.0
+    },
+    "食品生技": {
+        "category": "食品生技",
+        "count": 1,
+        "avgPrice": 5500.0,
+        "avgPricePerDay": 1100.0,
+        "avgEarlyDiscountPct": 7.27,
+        "avgGroupDiscountPct": 3.64,
+        "avgFillRate": 12.0
+    },
+    "運動保健": {
+        "category": "運動保健",
+        "count": 11,
+        "avgPrice": 7236.36,
+        "avgPricePerDay": 1214.32,
+        "avgEarlyDiscountPct": 8.45,
+        "avgGroupDiscountPct": 4.23,
+        "avgFillRate": 7.9394
+    },
+    "體育": {
+        "category": "體育",
+        "count": 6,
+        "avgPrice": 7416.67,
+        "avgPricePerDay": 1202.37,
+        "avgEarlyDiscountPct": 8.67,
+        "avgGroupDiscountPct": 4.34,
+        "avgFillRate": 7.833333333333333
+    },
+    "海洋科學": {
+        "category": "海洋科學",
+        "count": 3,
+        "avgPrice": 6933.33,
+        "avgPricePerDay": 1238.89,
+        "avgEarlyDiscountPct": 7.63,
+        "avgGroupDiscountPct": 3.82,
+        "avgFillRate": 6.740733333333334
+    },
+    "航空工程": {
+        "category": "航空工程",
+        "count": 2,
+        "avgPrice": 5650.0,
+        "avgPricePerDay": 1050.0,
+        "avgEarlyDiscountPct": 6.97,
+        "avgGroupDiscountPct": 3.49,
+        "avgFillRate": 1.66665
+    },
+    "機械工程": {
+        "category": "機械工程",
+        "count": 3,
+        "avgPrice": 7500.0,
+        "avgPricePerDay": 1322.22,
+        "avgEarlyDiscountPct": 8.28,
+        "avgGroupDiscountPct": 4.14,
+        "avgFillRate": 2.4242333333333335
+    },
+    "餐旅管理": {
+        "category": "餐旅管理",
+        "count": 2,
+        "avgPrice": 5700.0,
+        "avgPricePerDay": 1036.67,
+        "avgEarlyDiscountPct": 7.88,
+        "avgGroupDiscountPct": 3.94,
+        "avgFillRate": 8.0
+    },
+    "歐語文": {
+        "category": "歐語文",
+        "count": 1,
+        "avgPrice": 8000.0,
+        "avgPricePerDay": 1333.33,
+        "avgEarlyDiscountPct": 8.75,
+        "avgGroupDiscountPct": 4.38,
+        "avgFillRate": 8.5714
+    },
+    "輔導諮商": {
+        "category": "輔導諮商",
+        "count": 4,
+        "avgPrice": 4850.0,
+        "avgPricePerDay": 851.67,
+        "avgEarlyDiscountPct": 6.7,
+        "avgGroupDiscountPct": 3.35,
+        "avgFillRate": 5.250025
+    },
+    "工業設計": {
+        "category": "工業設計",
+        "count": 3,
+        "avgPrice": 6400.0,
+        "avgPricePerDay": 1023.01,
+        "avgEarlyDiscountPct": 7.76,
+        "avgGroupDiscountPct": 3.89,
+        "avgFillRate": 5.666666666666667
+    },
+    "海洋資源": {
+        "category": "海洋資源",
+        "count": 4,
+        "avgPrice": 7325.0,
+        "avgPricePerDay": 1416.67,
+        "avgEarlyDiscountPct": 8.02,
+        "avgGroupDiscountPct": 4.01,
+        "avgFillRate": 6.222225
+    },
+    "表演藝術": {
+        "category": "表演藝術",
+        "count": 6,
+        "avgPrice": 5550.0,
+        "avgPricePerDay": 984.45,
+        "avgEarlyDiscountPct": 7.58,
+        "avgGroupDiscountPct": 3.79,
+        "avgFillRate": 4.93255
+    },
+    "舞蹈": {
+        "category": "舞蹈",
+        "count": 2,
+        "avgPrice": 5350.0,
+        "avgPricePerDay": 978.34,
+        "avgEarlyDiscountPct": 7.48,
+        "avgGroupDiscountPct": 3.75,
+        "avgFillRate": 4.10715
+    },
+    "農藝": {
+        "category": "農藝",
+        "count": 2,
+        "avgPrice": 6600.0,
+        "avgPricePerDay": 1216.67,
+        "avgEarlyDiscountPct": 8.32,
+        "avgGroupDiscountPct": 4.16,
+        "avgFillRate": 2.85715
+    },
+    "藝術設計": {
+        "category": "藝術設計",
+        "count": 22,
+        "avgPrice": 5900.0,
+        "avgPricePerDay": 1055.76,
+        "avgEarlyDiscountPct": 7.53,
+        "avgGroupDiscountPct": 3.8,
+        "avgFillRate": 7.366468181818181
+    },
+    "空間設計": {
+        "category": "空間設計",
+        "count": 2,
+        "avgPrice": 6100.0,
+        "avgPricePerDay": 1116.67,
+        "avgEarlyDiscountPct": 8.2,
+        "avgGroupDiscountPct": 4.1,
+        "avgFillRate": 5.0
+    },
+    "行銷經營": {
+        "category": "行銷經營",
+        "count": 4,
+        "avgPrice": 6275.0,
+        "avgPricePerDay": 1144.17,
+        "avgEarlyDiscountPct": 8.73,
+        "avgGroupDiscountPct": 3.94,
+        "avgFillRate": 8.0
+    },
+    "音樂": {
+        "category": "音樂",
+        "count": 4,
+        "avgPrice": 6775.0,
+        "avgPricePerDay": 1129.17,
+        "avgEarlyDiscountPct": 8.45,
+        "avgGroupDiscountPct": 4.42,
+        "avgFillRate": 6.833325
+    }
+}

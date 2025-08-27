@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://hahow.in/courses/5d4550d73714d90022ded25d",
+    "title": "開啟程式設計之門 - C++ 核心課程",
+    "instructor": "Kevin",
+    "rating": "4.9 (100)",
+    "duration": "9 小時",
+    "students": "1,570 人",
+    "price": "NT$1,490",
+    "image_url": "https://images.hahow.in/images/67a09ed6c425935d88d18c62?width=224",
+    "image_alt": "開啟程式設計之門 - C++ 核心課程"
+  },
+  {
+    "url": "https://hahow.in/courses/56189df9df7b3d0b005c6639",
+    "title": "動畫互動網頁程式入門 (HTML/CSS/JS)",
+    "instructor": "吳哲宇",
+    "rating": "5.0 (559)",
+    "duration": "29 小時",
+    "students": "12,905 人",
+    "price": "NT$2,000",
+    "image_url": "無圖片",
+    "image_alt": "無描述"
+  },
+  {
+    "url": "https://hahow.in/services/6847f9cfc63614b4f9b517d2",
+    "title": "人生房產班｜找屋、議價、簽約實戰",
+    "instructor": "Hahow 好學校",
+    "rating": "無評分",
+    "duration": "未知時長",
+    "students": "未知人數",
+    "price": "NT$74,800",
+    "image_url": "無圖片",
+    "image_alt": "無描述"
+  }
+]

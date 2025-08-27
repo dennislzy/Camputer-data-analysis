@@ -1,0 +1,32 @@
+[
+    {
+        "interestId": "A",
+        "interestName": "藝術型 (Artistic)",
+        "interestDescription": "喜歡創意表達、藝術創作，有審美能力，偏好需要創造力和自我表達的工作"
+    },
+    {
+        "interestId": "C",
+        "interestName": "事務型 (Conventional)",
+        "interestDescription": "喜歡有組織的工作、處理數據，遵循規則和程序，偏好需要精確和仔細的工作"
+    },
+    {
+        "interestId": "E",
+        "interestName": "企業型 (Enterprising)",
+        "interestDescription": "喜歡領導他人、影響說服，追求組織目標，偏好需要領導、管理和銷售的工作"
+    },
+    {
+        "interestId": "I",
+        "interestName": "研究型 (Investigative)",
+        "interestDescription": "喜歡思考、分析問題，探索新知識，進行研究和調查，偏好需要智力挑戰的工作"
+    },
+    {
+        "interestId": "R",
+        "interestName": "實作型 (Realistic)",
+        "interestDescription": "喜歡動手操作、使用工具和機械，處理具體問題，偏好實際的工作環境"
+    },
+    {
+        "interestId": "S",
+        "interestName": "社會型 (Social)",
+        "interestDescription": "喜歡與人互動、教導輔導，關心他人福祉，偏好需要人際互動與合作的工作"
+    }
+]
